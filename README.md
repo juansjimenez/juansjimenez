@@ -12,13 +12,13 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 ### I am...
 
-- 🌱 Currently learning about `Webscraping` and `Javascript`
+- 🌱 Currently learning about `Webscraping` and `Node.js`
 
 - 💻 An Advanced Programming Teaching Assistant
 
 - 💥 Passionate about Fintech, Innovation, Space Exploration and Music
 
-- 📖 Currently reading: Superintelligence by Nick Bostrom 
+- 📖 Currently reading: Why We Sleep by Matthew Walker
 
 - ⚡ Fun fact: I beatbox!
 

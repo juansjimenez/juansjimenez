@@ -12,7 +12,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 ### I am...
 
-- 🌱 Currently learning about `Node.js`, `Webscraping` and `Serverless`
+- 🌱 Currently learning about `Node.js`, `Webscraping` and `AWS`
 
 - 💻 Software Engineer Intern at [Floid](https://floid.cl/en/)
 

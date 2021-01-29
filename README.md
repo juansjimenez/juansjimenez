@@ -2,15 +2,13 @@
 
 Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/en). I'm really passionate about technology, coding, innovation and I hope to push the technological barrier of the world! You can find me on:
 
-<center>
-  <a href="https://linkedin.com/in/juan-jimenez-sieber" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-  <a href="https://instagram.com/juanjimenezsieber" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="22px" /></a>
-  <a href="https://t.me/juanjimenezs">
-    <img align="left" alt="Juan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>
-</center>
+<a href="https://linkedin.com/in/juan-jimenez-sieber" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://instagram.com/juanjimenezsieber" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://t.me/juanjimenezs">
+  <img align="left" alt="Juan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
-<br>
+</br>
 
 ### I am...
 
@@ -34,8 +32,8 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 <img align="left" src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 
-<br>
-<br>
+</br>
+</br>
 
 ### Now Playing 🎧
 

@@ -18,7 +18,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 - 💥 Passionate about Fintech, Innovation, Space Exploration and Music
 
-- 📖 Currently reading: Why We Sleep by Matthew Walker
+- 📖 Currently reading: Superintelligence by Nick Bostrom
 
 - ⚡ Fun fact: I beatbox!
 

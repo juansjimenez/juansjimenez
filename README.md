@@ -26,7 +26,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" />
-<img align="left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="50px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="50px" />
 <img align="left" src="https://simpleicons.org/icons/c.svg" alt="C" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" height="40px" />
 

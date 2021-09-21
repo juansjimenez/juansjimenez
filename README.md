@@ -30,7 +30,6 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 <img align="left" src="https://simpleicons.org/icons/rubyonrails.svg" alt="Ruby on Rails" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/c.svg" alt="C" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 
 </br>
 </br>

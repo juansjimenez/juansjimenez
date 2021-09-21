@@ -24,8 +24,9 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 ### Languages and Tools 
 
-<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
 <img align="left" src="https://simpleicons.org/icons/ruby.svg" alt="Ruby" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/rubyonrails.svg" alt="Ruby on Rails" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/c.svg" alt="C" height="40px" />

@@ -16,7 +16,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 - 💻 Software Engineer at [Floid](https://somosfloid.com/world/home)
 
-- 💥 Passionate about Fintech, Innovation, Space Exploration and Music
+- 💥 Passionate about Fintech, DeFi, Innovation, Space Exploration and Music
 
 - 📖 Currently reading: Superintelligence by Nick Bostrom
 

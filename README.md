@@ -16,9 +16,9 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 - 💻 Software Engineer at [Floid](https://somosfloid.com/world/home)
 
-- 💥 Passionate about Fintech, DeFi, Innovation, Space Exploration and Music
+- 💥 Passionate about Crypto, DeFi, Fintech, Innovation, Space Exploration and Music
 
-- 📖 Currently reading: Superintelligence by Nick Bostrom
+- 📖 Currently reading: How to win friends and influence people by Dale Carnegie
 
 - ⚡ Fun fact: I beatbox!
 

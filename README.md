@@ -12,7 +12,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 ### I am...
 
-- 🌱 Currently learning about `DeFi`, `Web3` and `Solidity`
+- 🌱 Currently learning about `DeFi`, `Web3` and `Solidity` 🌖
 
 - 💥 Passionate about Crypto, DeFi, Fintech, Innovation, Space Exploration and Music
 

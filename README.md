@@ -12,11 +12,11 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 ### I am...
 
-- 🌱 Currently learning about `DeFi`, `Web3` and `Solidity`
+- 🌱 Currently learning about `DeFi`, `Web3` and `Solidity`.
 
-- 💥 Passionate about Crypto, DeFi, Fintech, Innovation, Space Exploration and Music
+- 💥 Passionate about Web3, DeFi, Fintech, Innovation, Space Exploration and Music.
 
-- 📖 Currently reading: How to win friends and influence people by Dale Carnegie
+- 📖 Currently reading: How to win friends and influence people by Dale Carnegie.
 
 - ⚡ Fun fact: I beatbox!
 

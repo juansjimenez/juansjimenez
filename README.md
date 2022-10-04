@@ -10,7 +10,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 </br>
 
-### I am...
+### Stuff about me:
 - 💻 Software Engineer at [Arch](https://www.archfinance.io/)
 
 - 🌱 Currently learning about `DeFi`, `Web3` and `Solidity`.

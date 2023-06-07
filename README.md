@@ -37,8 +37,8 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12134343503&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-## GitHub Stats 🚀
+<!-- ## GitHub Stats 🚀
 
 <a href="https://github.com/Juan379/Juan379">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juansjimenez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juansjimenez's GitHub Stats" />
-</a>
+</a> -->

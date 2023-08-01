@@ -17,7 +17,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 - 💥 Passionate about Web3, DeFi, Fintech, Innovation, Space Exploration and Music.
 
-- 📖 Currently reading: How to win friends and influence people by Dale Carnegie.
+- 📖 Currently reading: The Infinite Machine by Camila Russo.
 
 - ⚡ Fun fact: I beatbox!
 

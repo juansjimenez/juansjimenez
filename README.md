@@ -4,7 +4,6 @@ I'm passionate about technology, coding, and innovation. I enjoy working in dyna
 
 Web3 🙌
 
-</br>
 
 <!--### Stuff about me:
 - 💻 Fullstack Dev at [Arch](https://www.archfinance.io/)

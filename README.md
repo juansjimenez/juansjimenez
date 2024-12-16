@@ -1,16 +1,12 @@
 <h2 align="center">Hola, I'm Juan Jiménez! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm really passionate about technology, coding, innovation and I hope to push the technological barrier of the world. You can find me on:
+I'm passionate about technology, coding, and innovation. I enjoy working in dynamic environments and tackling challenging problems. My goal is to continually learn, grow, and contribute to advancing technology.
 
-<a href="https://linkedin.com/in/juan-jimenez-sieber" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="xtenzq" width="27px" /></a>
-<!-- <a href="https://instagram.com/juanchi.js" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xtenzq" width="27px" /></a> -->
-<a href="https://t.me/juanjimenezs">
-  <img align="left" alt="Juan's Telegram" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+Web3 🙌
 
 </br>
 
-### Stuff about me:
+<!--### Stuff about me:
 - 💻 Fullstack Dev at [Arch](https://www.archfinance.io/)
 
 - 🌱 Currently learning about `DeFi`, `Web3` and `Solidity`.
@@ -33,7 +29,7 @@ I'm really passionate about technology, coding, innovation and I hope to push th
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50px" />
-
+-->
 
 </br>
 </br>

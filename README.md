@@ -1,8 +1,6 @@
 <h2 align="center">Hola, I'm Juan Jiménez! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm passionate about technology, coding, and innovation. I enjoy working in dynamic environments and tackling challenging problems. My goal is to continually learn, grow, and contribute to advancing technology.
-
-Web3 🙌
+Engineering Manager and Backend Engineer. I've gone from writing code to leading teams, and I still do both. I care as much about why something gets built as how, comfortable working across engineering, product, and clients to turn ambiguous requirements into something valuable. Passionate about startups, growth, and hard problems, whether that means designing a system, building a team, or shipping something that didn't exist yesterday.
 
 
 <!--### Stuff about me:

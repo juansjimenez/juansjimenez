@@ -1,7 +1,6 @@
 <h2 align="center">Hola, I'm Juan Jiménez! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-Engineering Manager and Backend Engineer. I've gone from writing code to leading teams, and I still do both. I care as much about why something gets built as how, comfortable working across engineering, product, and clients to turn ambiguous requirements into something valuable. Passionate about startups, growth, and hard problems, whether that means designing a system, building a team, or shipping something that didn't exist yesterday.
-
+Senior Software Engineer with 5 years across fintech and blockchain, spanning payment infrastructure and DeFi. I've architected systems from the ground up, led greenfield initiatives, and spent a year as an Engineering Manager at Toku (YC S21). I care as much about why something gets built as how. Comfortable working across engineering, product, and clients to turn ambiguous requirements into clean, scalable solutions.
 
 <!--### Stuff about me:
 - 💻 Fullstack Dev at [Arch](https://www.archfinance.io/)

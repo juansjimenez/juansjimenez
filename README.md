@@ -1,6 +1,6 @@
 <h2 align="center">Hola, I'm Juan Jiménez! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-Senior Software Engineer with 5 years across fintech and blockchain, spanning payment infrastructure and DeFi. I've architected systems from the ground up, led greenfield initiatives, and spent a year as an Engineering Manager at Toku (YC S21). I care as much about why something gets built as how. Comfortable working across engineering, product, and clients to turn ambiguous requirements into clean, scalable solutions.
+Senior Software Engineer with 6 years across fintech and blockchain, spanning payment infrastructure and DeFi. I've architected systems from the ground up, led greenfield initiatives, and spent a year as an Engineering Manager at Toku (YC S21). I care as much about why something gets built as how. Comfortable working across engineering, product, and clients to turn ambiguous requirements into clean, scalable solutions.
 
 <!--### Stuff about me:
 - 💻 Fullstack Dev at [Arch](https://www.archfinance.io/)

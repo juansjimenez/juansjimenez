@@ -27,6 +27,7 @@ Senior Software Engineer with 6 years across fintech and blockchain, spanning pa
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50px" />
 -->
 
+<!--
 ### Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12134343503&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
